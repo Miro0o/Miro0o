@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: Miro0o
             # Text on contribution graph 
-            text: M1R0-SUN
+            text: Miro0o_ShuoChangUni
        - uses: jasineri/simple-push-action@v1
