@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: Miro0o
             # Text on contribution graph 
             text: M1R0-SUN
        - uses: jasineri/simple-push-action@v1
