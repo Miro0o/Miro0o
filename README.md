@@ -3,8 +3,7 @@
 
 ### Hi there 👋
 
-[![Miro0o's GitHub | Stats](https://stats.quine.sh/Miro0o/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Miro0o) [![Miro0o's GitHub | Stats](https://stats.quine.sh/Miro0o/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Miro0o)
-
+[![Miro0o's GitHub | Stats](https://stats.quine.sh/Miro0o/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Miro0o) [![Miro0o's Stack Overflow | Stats](https://stats.quine.sh/Miro0o/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Miro0o)
 <!--
 **Miro0o/Miro0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
